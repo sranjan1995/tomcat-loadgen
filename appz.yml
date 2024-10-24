@@ -19,12 +19,12 @@ deploy:
 
 properties:
   title: Tomcat Loadgen - Demo on Zoom
-  head_color : Green
+  head_color : RoyalBlue
   threads: 0
   delay: 60
   next: 60
   download: false
   random : false
-  nano : 460
+  nano : 461
 
 
