@@ -18,7 +18,7 @@ deploy:
   ready_seconds : 45
 
 properties:
-  title: Tomcat Loadgen - Demo on Zoom
+  title: Demo for Lendo
   head_color : RoyalBlue
   threads: 0
   delay: 60
