@@ -18,11 +18,11 @@ deploy:
   ready_seconds : 45
 
 properties:
-  title: Demo for Lendo
-  head_color : RoyalBlue
+  title: Demo for RAD Security
+  head_color : Green
   threads: 0
   delay: 60
   next: 60
   download: false
   random : false
-  nano : 464
+  nano : 465
